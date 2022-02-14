@@ -1,0 +1,134 @@
+
+{
+    "devs" : [{
+        "id"   : 1,
+        "name" : "Ariful Islam",
+        "skill": "Mern Stack",
+        "age"  : 25,
+        "dist" : "Sirajganj",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/169083810_2903429336590991_4453352237046529048_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFYgPgUe_TqId5z0pAbhwm9JeLBwsLvfUEl4sHCwu99Qc2CZ36nnm_RF-ZQGfgim5zcLShwSCuQ18KCpDn2A2Ck&_nc_ohc=R3tcWugUlbIAX84ib1L&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8ZpraPfJeBjDLfMHKQNqMTSoGkhaQ4Wy2SdPJntDWUDw&oe=620FFE3C"
+            },
+        {
+        "id"   : 2,
+        "name" : "Asraful Haque",
+        "skill": "PHP Developer",
+        "age"  : 38,
+        "dist" : "Dhaka",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFJh2uea6YEoIZibjW97BoNbVX3-HfzPKZtVff4d_M8pmV1YuzWtNWnhlKwFCcHnKUik9ck_GGb2b6pas2og9Ly&_nc_ohc=zTKJhCo6iVMAX-wiU2u&_nc_ht=scontent.fdac99-1.fna&oh=00_AT-OQPIwnkc4_QqwY5a3RprFoA7SonLx4WDBkvLeZuYtLA&oe=621093D4"
+        },
+
+        {
+        "id"   : 3,
+        "name" : "Zunayet Ahmed",
+        "skill": "Mern Stack",
+        "age"  : 22,
+        "dist" : "Bogura",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/271709276_700456181364022_5440642696709932769_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEy7Os9ymk3Z4fzf7m70MdcooGhKPeopyaigaEo96inJtOY6eEbLT7_-ZkLuSZXJk_o9U2xctDXBLPz-0d7LQZG&_nc_ohc=BW8HhyCmwWMAX_i6Xvt&_nc_ht=scontent.fdac99-1.fna&oh=00_AT--6iYqzz48tbDWZrey13kaT0g1VfARST5gQet8InEtjg&oe=620EE78A"
+               },
+        {
+        "id"   : 4,
+        "name" : "Robiul Islam",
+        "skill": "Python Developer",
+        "age"  : 25,
+        "dist" : "Comilla",
+        "img"  : "https://media.istockphoto.com/photos/indoor-photo-of-handsome-european-guy-pictured-isolated-on-grey-to-picture-id1034357476?k=20&m=1034357476&s=612x612&w=0&h=OpiBGaVDU02LI1WVpb02Wza6AAdTGopRpf0Kx6q8V-Q="
+           },
+
+       {
+        "id"   : 5,
+        "name" : "Jillur Rahman",
+        "skill": "WordPress Developer",
+        "age"  : 28,
+        "dist" : "Dinajpur",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/122161089_2400917523366930_2655176581572288459_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGCpD-76rSQBHGCwbu5dXym1HuO1m6IcrXUe47WbohytWOvjwQXEElsiRwGHRVPopJ6RqZLXYnud2jQxzfcrj9J&_nc_ohc=Z4vjDaQpIZsAX9mUYaH&_nc_ht=scontent.fdac99-1.fna&oh=00_AT_THSLrJcDsG8-j0vdorr2Pn5T7mysRj2VrTtKW_R6wGw&oe=6230B225"
+       },
+
+       {
+        "id"   : 6,
+        "name" : "Abu Bakkar Siddik",
+        "skill": "Mern Stack",
+        "age"  : 26,
+        "dist" : "Dinajpur",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/270182952_3053775348224061_8743289508235290382_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeES0h2LgAXs405THD8I8UHKAoa8VLhxIskChrxUuHEiyZcut8fIYT-1dQtBcotacMu5m5Uq9I5xoDmaWazVii9A&_nc_ohc=Y148jg3xZUoAX_iOVYX&tn=iXTJTr13Oer32AVK&_nc_ht=scontent.fdac99-1.fna&oh=00_AT_otHSI8Mr8Ung-QFPNNG5dVjuD3hte4M9LIYlnYNtRGw&oe=621001DB"
+           },
+        {
+        "id"   : 7,
+        "name" : "Rezwan Ahmed",
+        "skill": "Java Developer",
+        "age"  : 25,
+        "dist" : "Natore",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/163117745_484208825948997_287845421450825366_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEiJfwPQxpmH0dCUdTFJF7uOe3FYckG4IE57cVhyQbggbb449VWnUGmhK-b9gEoaAQEbZ8gvwlC_k69VK__kOh2&_nc_ohc=CZS5f_CuDCkAX86N4oU&tn=iXTJTr13Oer32AVK&_nc_ht=scontent.fdac99-1.fna&oh=00_AT9H-AajNZo3Nis0q00rOcANdHKYzM6UMkZcUrzdF5rOwQ&oe=6230A0B3"
+           },
+
+        {
+        "id"   : 8,
+        "name" : "Maruful Haque",
+        "skill": "Laravel Developer",
+        "age"  : 25,
+        "dist" : "Dhaka",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/270223057_1638933353126488_3362331927657455139_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHFBqkPyVPE_xaA0l2yQWZQZWv0AptSYhpla_QCm1JiGn_CQrsZoC_yWsr4oACYzPzziRqNU4-xLinvrpJQWZtd&_nc_ohc=3H2MVmdeUC4AX9bWTBu&_nc_ht=scontent.fdac99-1.fna&oh=00_AT-IdcrjgbrM2iyy8cEm-C-5adHlbzpGwQec-nlpghcuog&oe=620FB2AB"
+           },
+
+         {
+        "id"   : 9,
+        "name" : "Nurul Islam",
+        "skill": "WordPress Developer",
+        "age"  : 32,
+        "dist" : "Gazipur",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/203063353_2931186927156231_5791956452950058928_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF_bFm7EgAAJPbeCocWHbz7JPr_UDt_iyMk-v9QO3-LI83yDK2X8Z6iRyDUaZzIXtelXvYZT0fKpK_JprtwgtF9&_nc_ohc=d3AB0hhDhLEAX81FVGH&_nc_ht=scontent.fdac99-1.fna&oh=00_AT_ubHgfA6Tn3KVTWsbYXu7A5KM9OrqxXJNHMkGAiv31pQ&oe=622F2410"
+           },
+        {
+        "id"   : 10,
+        "name" : "Al-Amin Hossain",
+        "skill": "WordPress Developer",
+        "age"  : 22,
+        "dist" : "Gazipur",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/269988192_2813277628974595_2771320828781617534_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEGYRchgt4TgBb4endbt2rgLOA76dysMrcs4Dvp3Kwyt_y5lij6DwcD1VDEmg3ex1vVN2_3PJ4F-B402zR8cxOK&_nc_ohc=OwFtoMlf7J0AX_dPjqr&_nc_ht=scontent.fdac99-1.fna&oh=00_AT922_rx2Ew1eGd0OgfOBy44AoTQssv1Yqw2cfiSQ4-GWw&oe=620ECDC2"
+           },
+
+         {
+        "id"   : 11,
+        "name" : "Azizar R. Nayon",
+        "skill": "WordPress Developer",
+        "age"  : 22,
+        "dist" : "Rangpur",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/272140799_1698912410461702_1670143569965509410_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF7We0ab_0hlFsXBswIblB8M0tpseNQkd8zS2mx41CR371FYtPTu17_QGpuTgsxOR3f-FvvQytoB_s1VQNu3hrt&_nc_ohc=aNHutXWDxDsAX-2QiWB&_nc_ht=scontent.fdac99-1.fna&oh=00_AT_8GSxc7cSB5BqneJdtQrMg0mX__o2hPYw3fAC6Ch_Nug&oe=62104739"
+           },
+
+        {
+        "id"   : 12,
+        "name" : "Jamadul Remon",
+        "skill": "Mern Stack",
+        "age"  : 22,
+        "dist" : "Rajshahi",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/159621402_3174775015959093_9020380548702116655_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGw9SYa-M3PUcMmHG4AaUjYzh3A_T32AZvOHcD9PfYBmxXxYMi8WntpnrSnSvyw7TF5xyMWLUaIWyXKhHcu-vgk&_nc_ohc=8bYogmTOoxYAX8tfJLo&_nc_ht=scontent.fdac99-1.fna&oh=00_AT_eY7LKZK-VyJoPepOUNWa2d37GEPEpHIFoPun5t-6FfQ&oe=623203E6"
+           },
+
+         {
+        "id"   : 13,
+        "name" : "Md Rasel Sarker",
+        "skill": "PHP Developer",
+        "age"  : 25,
+        "dist" : "Natore",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-1/s200x200/272686825_600128397753561_795412159073120286_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEcfhWBYt7sQY6ZFLBXBKV3oIBv8FStfRaggG_wVK19FiuPR48wsMWQuLxrW0TFvu5Qmgf-G1qMXu0SHalicjE9&_nc_ohc=xRZ5e8eWQ6EAX9-hBEx&tn=iXTJTr13Oer32AVK&_nc_ht=scontent.fdac99-1.fna&oh=00_AT9Um0hESRoMbjwBlVv7cOgRcYNGky-Ievz33b3Qj7FyyA&oe=620F964E"
+           },
+
+        {
+        "id"   : 14,
+        "name" : "Rupa Roy",
+        "skill": "Mern Stack",
+        "age"  : 32,
+        "dist" : "Dhaka",
+        "img"  : "https://www.hznshipping.com/data/frontImages/gallery/product_image/Female-Executive_3.jpg"
+           },
+    {
+        "id"   : 15,
+        "name" : "Mukti Mukta",
+        "skill": "Python Developer",
+        "age"  : 26,
+        "dist" : "Sirajganj",
+        "img"  : "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydHJhaXR8ZW58MHx8MHx8&w=1000&q=80"
+           }       
+]
+ 
+}
