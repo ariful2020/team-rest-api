@@ -128,6 +128,14 @@
         "age"  : 26,
         "dist" : "Sirajganj",
         "img"  : "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydHJhaXR8ZW58MHx8MHx8&w=1000&q=80"
+           },
+           {
+        "id"   : 16,
+        "name" : "Rezwan Ahmed",
+        "skill": "Java Developer",
+        "age"  : 25,
+        "dist" : "Natore",
+        "img"  : "https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/163117745_484208825948997_287845421450825366_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEiJfwPQxpmH0dCUdTFJF7uOe3FYckG4IE57cVhyQbggbb449VWnUGmhK-b9gEoaAQEbZ8gvwlC_k69VK__kOh2&_nc_ohc=CZS5f_CuDCkAX86N4oU&tn=iXTJTr13Oer32AVK&_nc_ht=scontent.fdac99-1.fna&oh=00_AT9H-AajNZo3Nis0q00rOcANdHKYzM6UMkZcUrzdF5rOwQ&oe=6230A0B3"
            }       
 ]
  
